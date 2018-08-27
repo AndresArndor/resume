@@ -1,0 +1,26 @@
+#this is my initial resume to be gradually filed over two years
+#knoledge = from 0 (don't know anything), 3 (have some initial undestanding),
+#5 (have some confidence while having access to google), 7 (pretty confident user),
+#to 10 (extremely confident) and know no limits
+#2,4,6,8,9 - intermediary states of knoledge
+
+Human-spoken languages
+----------------------
+English language = 10
+Japanese language = 3
+
+IT skilles
+----------------------
+linux
+	operation system bootstrap 5
+	how to fix chmod -x chmod 7
+
+virtualization
+	qemu vs kvm vs libvirt 6
+
+networking
+	osi 5
+
+databases
+	mysql, mariadb, galera 4
+	
