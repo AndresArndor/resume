@@ -1,4 +1,4 @@
-#this is my initial resume to be gradually filed over two years
+#this is my initial resume checklist to be gradually filed over two years
 #knoledge = from 0 (don't know anything), 3 (have some initial undestanding),
 #5 (have some confidence while having access to google), 7 (pretty confident user),
 #to 10 (extremely confident) and know no limits
@@ -23,4 +23,8 @@ networking
 
 databases
 	mysql, mariadb, galera 4
-	
+
+git
+	commit,push 6
+
+iptables 3
