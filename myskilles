@@ -16,29 +16,27 @@ linux
 		how grub works, what comes after grub	??
 		how systemd works	??
 	how to fix chmod -x chmod 7
-	ldd 0
-	lsmod 0
+	ldd	??
+	lsmod	??
 	lspci 1
-	${} vs $[] $() ``
 	ps and how to see processes without command 1
-	strace 0 fuser 0 lsof
-	difference in architecture of apache and nginx 0
+	strace 0 fuser 0 lsof	??
+	difference in architecture of apache and nginx	??
 
 virtualization
 	qemu vs kvm vs libvirt 6
 
 networking
-	osi 5
+	osi 4
 	what is vlan, bridge, bond	??
 
 databases
-	mysql, mariadb, galera 4
-		innodb and what other engines are there?
+	mysql, mariadb, galera 3
+		innodb and what other engines are there		??
 
 git
-	commit,push 6
+	commit,push 3
 
-iptables 3
 
 ceph
 	did you work with it, discribe how it works	??
@@ -47,10 +45,16 @@ raid
 	how it works, what are raid types, what's the difference	??
 
 openstack
-	vesion, components, how it works	??
-	what tables there are 1
-	masquerade vs snat 0
-	chains 1
+	vesion, components, how it works 3
+
+iptables
+	what tables there are	??
+	masquerade vs snat 	??
+	chains		??
 
 python 1
 	regexp module ??
+
+bash 5
+	${} vs $[] $() ``	??
+	in what ways sh and bash are incompatible	??
