@@ -13,6 +13,8 @@ IT skilles
 ----------------------
 linux
 	operation system bootstrap 5
+		how grub works, what comes after grub	??
+		how systemd works	??
 	how to fix chmod -x chmod 7
 
 virtualization
@@ -20,6 +22,7 @@ virtualization
 
 networking
 	osi 5
+	what is vlan, bridge, bond	??
 
 databases
 	mysql, mariadb, galera 4
@@ -28,3 +31,12 @@ git
 	commit,push 6
 
 iptables 3
+
+ceph
+	did you work with it, discribe how it works	??
+
+raid
+	how it works, what are raid types, what's the difference	??
+
+openstack
+	vesion, components, how it works	??
